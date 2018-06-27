@@ -8,5 +8,9 @@ Para utilizar o arquivo basta dar ```git clone <link>``` ou baixar o zip.
 Para executar basta abrir o arquivo index.html da pasta jogolop.
 O script está na pasta script e se chama sketch.
 
+# Usar o jogo
+
+https://lefernandess.github.io/jogolop
+
 # Desenvolvimento
 Leticia Fernandes (lefernandes.cet@gmail.com)
